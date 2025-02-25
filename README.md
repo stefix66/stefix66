@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=FF5733&center=true&vCenter=true&width=500&lines=WELCOME!+👋;Enjoy+your+stay!+🚀;Explore+something+new!+💡" alt="Welcome Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=a9ff00&center=true&vCenter=true&width=500&lines=WELCOME!+👋;Enjoy+your+stay!+🚀;Explore+something+new!+💡" alt="Welcome Animation">
 </p>
 
 
