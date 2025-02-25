@@ -1,11 +1,15 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2500&color=00ffbe&center=true&vCenter=true&width=500&lines=WELCOME!+👋;Enjoy+your+stay!+🚀;Explore+something+new!+💡" alt="Welcome Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2500&color=00e1ff&center=true&vCenter=true&width=500&lines=WELCOME!+👋;Enjoy+your+stay!+🚀;Explore+something+new!+💡" alt="Welcome Animation">
 </p>
 
 
 
 
 ![Code Hacking GIF](assets/code-hacking.gif.gif)
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=fff000&center=true&vCenter=true&width=500&lines=🚀+MY+SOCIAL+LINKS+🌍" alt="Typing SVG" />
+</p>
 
 
 <a href="https://steamcommunity.com/id/StEfiX2617/" target="_blank">
