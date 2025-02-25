@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=FF5733&center=true&vCenter=true&width=400&lines=WELCOME!+👋;Enjoy+your+stay!+🚀" alt="Welcome Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&center=true&vCenter=true&width=500&lines=WELCOME!+👋&color=FF5733,FFC300,DAF7A6" alt="Welcome Animation">
 </p>
+
 
 
 
