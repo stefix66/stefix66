@@ -8,7 +8,7 @@
 ![Code Hacking GIF](assets/code-hacking.gif.gif)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="300" alt="Follow Me">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=fff000&center=true&vCenter=true&width=435&lines=MY+SOCIAL+LINKS" alt="Typing SVG" />
 </p>
 
 
