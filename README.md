@@ -5,9 +5,10 @@
 
 
 
-<p align="center">
-  ![Code Hacking GIF](assets/code-hacking.gif.gif)
-</p>
+
+ ![Code Hacking GIF](assets/code-hacking.gif)
+
+
 
 
 <p align="center">
