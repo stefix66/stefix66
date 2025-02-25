@@ -1,4 +1,5 @@
 ## Hi there 👋
 
-![Demo GIF](demo.gif)
+![Code Hacking GIF by Pizza Ninjas](assets/Code Hacking GIF by Pizza Ninjas.gif)
+
 
