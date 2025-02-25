@@ -5,8 +5,7 @@
 
 
 
-
- ![Code Hacking GIF](assets/code-hacking.gif)
+![Code Hacking GIF](assets/code-hacking.gif.gif)
 
 
 
