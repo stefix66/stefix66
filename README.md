@@ -1,4 +1,7 @@
-## Hi there 👋
+## <p align="center" style="font-family: Azonix; font-size: 24px;">
+  Hi there 👋
+</p>
+
 
 ![Code Hacking GIF](assets/code-hacking.gif.gif)
 
