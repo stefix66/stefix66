@@ -1,3 +1,4 @@
 ## Hi there 👋
 
-![Demo GIF](assets/demo.gif)
+![Demo GIF](demo.gif)
+
