@@ -1,4 +1,4 @@
-## <p align="center" style="font-family: Azonix; font-size: 24px;">
+<p align="center" style="font-family: Azonix; font-size: 24px;">
   Hi there 👋
 </p>
 
